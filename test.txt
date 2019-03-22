@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8C53-930E
+
+ Directory of C:\Users\ShiftStudent\Desktop\GitTestFolder
+
+03/21/2019  08:32 PM    <DIR>          .
+03/21/2019  08:32 PM    <DIR>          ..
+03/21/2019  08:32 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  19,680,931,840 bytes free
